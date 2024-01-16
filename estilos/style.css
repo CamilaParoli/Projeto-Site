@@ -7,8 +7,10 @@ body{
 }
 main{
     background-color: aliceblue;
-    width: 500px;
+    width: 700px;
     margin:auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(14, 5, 5, 0.296);
 }
+img.lado{float:right;}
+p{text-align: justify;}
