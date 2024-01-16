@@ -1,2 +1,2 @@
 # projeti-site
- Projeto de um site criado durante um curso de git e github
+ Projeto de um *site* criado durante um curso de **git e github**
